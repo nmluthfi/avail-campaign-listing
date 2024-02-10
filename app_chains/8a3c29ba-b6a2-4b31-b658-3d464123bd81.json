@@ -1,0 +1,8 @@
+{
+  "name": "pharaohtan",
+  "logo": "https://i.imgur.com/6nAa0OW.jpg",
+  "rpc_url": "http://157.245.200.114:9944",
+  "explorer_url": "http://157.245.200.114:4000",
+  "metrics_endpoint": "http://157.245.200.114:9615/metrics",
+  "id": "8a3c29ba-b6a2-4b31-b658-3d464123bd81"
+}
